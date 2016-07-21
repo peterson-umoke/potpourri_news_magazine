@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
-[![Language](http://google.com)](CSS3)
-[![PHp](http://google.com)](PHP7)
+[![Language Status](http://google.com)](CSS3)
+[[PHp](http://google.com)](PHP7)
 
 _s
 ===
